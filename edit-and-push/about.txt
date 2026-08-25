@@ -1,6 +1,7 @@
-Name: 
-Course: Intro to Terminal
+Name: Joe Mama
+Course: Mom's spaghetti
 Year: 2026
 
-Tell us a bit about yourself:
+Tell us a bit about yourself: I'm sorry, little one...
+
 
